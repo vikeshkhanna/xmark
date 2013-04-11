@@ -1,0 +1,10 @@
+xmark is a simple Machine Learning algorithm to detect whether an image depicts a cross (X) mark or not. 
+
+Usage: ./test.m <path_to_image>
+
+Sample:
+$ ./test.m "test/o1.jpg"
+$ Not an X
+
+$ ./test.m "test/x1.jpg"
+$ It's an X
